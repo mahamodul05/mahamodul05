@@ -53,8 +53,8 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
   </picture>
 -->
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=highcontrast" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamodul05&theme=highcontrast" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mahamodul05&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
 </p>
 
 </div>
@@ -64,7 +64,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 
 ## 🌍 Languages I Use:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifsafwan&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamodul05&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 <br>
@@ -92,13 +92,13 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 
 ## 📫 Connect with Me:
 <p align="center">
-    <a href="https://linkedin.com/in/nasifsafwan">
+    <a href="https://linkedin.com/in/mahamodul05">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/nasifsafwan">
+    <a href="https://twitter.com/mahamodul05">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="mailto:nasifsafwan@gmail.com">
+    <a href="mailto:mahamodul.aiub@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </p>
@@ -106,5 +106,5 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nasifsafwan/nasifsafwan/main/github-user-contribution.svg" alt="Contributions Animation"/>
+    <img src="https://raw.githubusercontent.com/mahamodul05/mahamodul05/main/github-user-contribution.svg" alt="Contributions Animation"/>
 </p>
