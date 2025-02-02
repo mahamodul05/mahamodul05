@@ -1,7 +1,5 @@
 # Hey there! 👋 I'm Mahamodul Hasan Mahadi  
 
-![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile%20✨-green?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=for-the-badge)
-
 ## 🚀 About Me:
 I’m a **Machine Learning Enthusiast** with a passion for solving real-world problems through data, technology, and innovation! I love exploring cutting-edge AI technologies and contributing to open-source projects. 
 
@@ -10,7 +8,6 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 - 🤝 I’m looking to collaborate on: **Open-source AI/ML projects**, **Hackathons**
 - 🤖 Ask me about: **Data Science**, **AI/ML**, **Python**, **TensorFlow**
 - 📫 How to reach me: **mahamodul.aiub@gmail.com**
-- ⚡ Fun fact: **I’m also a huge fan of Football ⚽️ and enjoy playing!**
 
 <br>
 
