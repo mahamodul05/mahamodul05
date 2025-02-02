@@ -32,7 +32,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 ## 🏆 GitHub Stats:
 <!-- v -->
 <!-- Profile summary -->
-<!--<h2>Profile summary</h2>
+<h2>Profile summary</h2>
 <div align="center">
  <picture align="left">
     <source srcset="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
@@ -48,7 +48,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
     <source media="(prefers-color-scheme: light)" srcset="images/Mediamodifier-Design.svg" width="98%">
     <img src="images/Mediamodifier-Design.svg" width="98%" />
   </picture>
--->
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamodul05&theme=highcontrast" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=mahamodul05&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
@@ -64,26 +64,6 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamodul05&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
-<br>
-
-## 🎨 Dynamic Section (Optional):
-<details>
-  <summary>✨ Recent Projects:</summary>
-  <ul>
-    <li><b>Project 1</b>: T3SSLNet: Tri-Method Self-Supervised Learning Based Pre-trained Network for MRI Brain Tumor Classification [[GitHub Repo](https://github.com/nasifsafwan/T3SSLNet)](#)</li>
-    <li><b>Project 2</b>: My Various Projects on Data Science and EDA [[GitHub Repo](https://github.com/nasifsafwan/Data-Enthusiasm)](#)</li>
-    <li><b>Project 3</b>: ExtremoInsight. A project on detecting extremism. [[GitHub Repo](https://github.com/nasifsafwan/ExtremoInsight)](#)</li>
-  </ul>
-</details>
-
-<details>
-  <summary>📖 Blog Posts:</summary>
-  <ul>
-    <li><b>Post 1</b>: Title of blog post. [Read More](#)</li>
-    <li><b>Post 2</b>: Title of blog post. [Read More](#)</li>
-    <li><b>Post 3</b>: Title of blog post. [Read More](#)</li>
-  </ul>
-</details>
 
 <br>
 
