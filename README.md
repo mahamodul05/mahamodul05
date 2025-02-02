@@ -26,12 +26,16 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
     <img src="https://img.shields.io/badge/Seaborn-232F3E?style=for-the-badge&logo=seaborn&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white" />
 </p>
+<br>
 
+## 🌍 Languages I Use:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamodul05&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
 <br>
 
 ## 🏆 GitHub Stats:
 Profile summary
-<h2>Profile summary</h2>
 <div align="center">
  <picture align="left">
     <source srcset="https://github-readme-stats.vercel.app/api?username=mahamodul05&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
@@ -53,11 +57,6 @@ Profile summary
     <img src="https://github-readme-stats.vercel.app/api?username=mahamodul05&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
 </p>
 </div>
-<br>
-## 🌍 Languages I Use:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamodul05&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
 <br>
 
 ## 📫 Connect with Me:
