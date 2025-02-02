@@ -30,7 +30,6 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 <br>
 
 ## 🏆 GitHub Stats:
-v 
 Profile summary
 <h2>Profile summary</h2>
 <div align="center">
@@ -53,35 +52,23 @@ Profile summary
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamodul05&theme=highcontrast" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=mahamodul05&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
 </p>
-
 </div>
-
-
 <br>
-
 ## 🌍 Languages I Use:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamodul05&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
-
 <br>
 
 ## 📫 Connect with Me:
 <p align="center">
-    <a href="https://linkedin.com/in/mahamodul05">
+    <a href="www.linkedin.com/in/mahamodul-hasan-mahadi-3a7b75256">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/mahamodul05">
+<!--     <a href="https://twitter.com/mahamodul05">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
+    </a> -->
     <a href="mailto:mahamodul.aiub@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-</p>
-
----
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/mahamodul05/mahamodul05/main/github-user-contribution.svg" alt="Contributions Animation"/>
 </p>
