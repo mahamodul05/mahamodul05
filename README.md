@@ -30,18 +30,18 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 <br>
 
 ## 🏆 GitHub Stats:
-<!-- v -->
-<!-- Profile summary -->
+v 
+Profile summary
 <h2>Profile summary</h2>
 <div align="center">
  <picture align="left">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=mahamodul05&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mahamodul05&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
   </picture>
 
   <picture align="left"> 
-    <source srcset="https://streak-stats.demolab.com/?user=nasifsafwan&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://streak-stats.demolab.com/?user=nasifsafwan&hide_border=true&theme=dark&background=00000000" width="47%" />
+    <source srcset="https://streak-stats.demolab.com/?user=mahamodul05&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
+    <img src="https://streak-stats.demolab.com/?user=mahamodul05&hide_border=true&theme=dark&background=00000000" width="47%" />
   </picture>
 
   <picture align="right">
